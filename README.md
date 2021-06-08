@@ -1,9 +1,9 @@
 # Register-Login-System-on-AWS
 Complete Register/Login System on AWS with React.js and a Serverless API
 
-Register / login system on AWS from scratch. The backend is a node.js serverless API with a dynamodb for user information storage. It uses bcrypt to encrypt passwords and uses jwt to generate tokens. The frontend is built with react.js.
+Register / login system on AWS from scratch. The backend is a node.js serverless API with a dynamodb for user information storage (UserType, username, password). It uses bcrypt to encrypt passwords and uses jwt to generate tokens. The frontend is built with react.js.
 
-## Configuration
+## Installation
 
  ```sh
 •	cd frontend
@@ -13,4 +13,26 @@ Register / login system on AWS from scratch. The backend is a node.js serverless
 •	npm start
 ```
 
+## Usage
+#### Check Images Below
+ ```sh
+•	Create AWS API Gatway then Link it with Lambda Function
 
+•	Create Dynamodb
+
+•	Create Api-stage then generate api key and api plan
+
+•	Create your own JWT from config in lambda function section
+```
+## AWS API config
+
+![](demoImages/things-need-to-change.png)
+
+#### import backend code to aws lambda
+![](demoImages/0000000000.png)
+
+## Demo
+![](demoImages/demo.gif)
+
+## Refernces
+Website to learn more about aws: https://jinmeister.com
