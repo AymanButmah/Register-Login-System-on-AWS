@@ -37,5 +37,5 @@ Register / login system on AWS from scratch. The backend is a node.js serverless
 ## Refernces
 Website to learn more about aws: https://jinmeister.com
 
-## License
-[in](https://www.linkedin.com/in/ayman-butmah-816b361b3/)
+## MoreInfo
+[linkedin](https://www.linkedin.com/in/ayman-butmah-816b361b3/)
