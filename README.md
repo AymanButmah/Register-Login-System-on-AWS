@@ -18,9 +18,9 @@ Register / login system on AWS from scratch. The backend is a node.js serverless
  ```sh
 •	Create AWS API Gatway then Link it with Lambda Function
 
-•	Create Dynamodb
+•	Create Dynamodb table
 
-•	Create Api-stage then generate api key and api plan
+•	Create Api-stage then generate API key && API plan
 
 •	Create your own JWT from config in lambda function section
 ```
@@ -28,7 +28,7 @@ Register / login system on AWS from scratch. The backend is a node.js serverless
 
 ![](demoImages/things-need-to-change.png)
 
-#### import backend code to aws lambda
+#### deploy backend code to aws lambda
 ![](demoImages/0000000000.png)
 
 ## Demo
@@ -36,3 +36,6 @@ Register / login system on AWS from scratch. The backend is a node.js serverless
 
 ## Refernces
 Website to learn more about aws: https://jinmeister.com
+
+## License
+[in](https://www.linkedin.com/in/ayman-butmah-816b361b3/)
