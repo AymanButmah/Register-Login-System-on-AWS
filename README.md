@@ -25,7 +25,6 @@ Complete Register/Login System on AWS with React.js and a Serverless API
 
 •	Create your own JWT from config in lambda function section
 ```
-##### Check Images Below...
 
 ## AWS API config
 
