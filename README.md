@@ -24,6 +24,7 @@ Register / login system on AWS from scratch. The backend is a node.js serverless
 
 •	Create your own JWT from config in lambda function section
 ```
+
 ## AWS API config
 
 ![](demoImages/things-need-to-change.png)
