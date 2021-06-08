@@ -1,3 +1,4 @@
+![](https://badgen.net/github/release/babel/babel)  ![](https://badgen.net/npm/v/express)   ![](https://badgen.net/david/dep/zeit/pkg) ![](https://badgen.net/dub/stars/silly)
 # Register-Login-System-on-AWS
 Complete Register/Login System on AWS with React.js and a Serverless API
 
