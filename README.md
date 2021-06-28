@@ -16,7 +16,7 @@ Complete Register/Login System on AWS with React.js and a Serverless API
 
 ## Usage
 
- ```sh
+
 •	Create AWS API Gatway then Link it with Lambda Function
 
 •	Create Dynamodb table
@@ -24,7 +24,7 @@ Complete Register/Login System on AWS with React.js and a Serverless API
 •	Create Api-stage then generate API key && API plan
 
 •	Create your own JWT from config in lambda function section
-```
+
 
 ## AWS API config
 
